@@ -7,7 +7,7 @@ To run the classifier, type "python slice_classifier_RuyiWang.py" under its dire
 Follow the instruction to select architectures out of 3.
 
 Code is written based on the theanetstutorial from:
-https://github.com/abramhindle/theanetstutorial
+https://github.com/abramhindle/theanets-tutorial.git
 
 Dataset is downloaded from:
 http://archive.ics.uci.edu/ml/datasets/ILPD+%28Indian+Liver+Patient+Dataset%29#
